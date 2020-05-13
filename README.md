@@ -23,6 +23,9 @@ AWS Summit에 참석해주셔서 감사 드립니다.
 5개 세션을 모두 시청하신 분들에게는 AWS 크레딧과 AWSome Day 참석증명서가 제공됩니다.
 
 ## 참석한 Live 프레젠테이션
+
++ Feedback에 뭐 참가했는지 알 수 없다고 불평했는데 Agenda Builder 라는 게 있어서 스케줄링이 가능했었음;
+
 - 1. 진화하는 AWS 리전
   > Speaker: 김일호 AWS 리드 솔루션즈 아키텍트 (2013년부터 근무했다고 함)
 
@@ -37,6 +40,9 @@ AWS Summit에 참석해주셔서 감사 드립니다.
   
 - 5. 디자인 패턴과 고객 사례로 살펴보는 현대적 어플리케이션 개발
   > Speaker: 배영부 AWS 애플리케이션 아키텍트, 강성일 AWS 애플리케이션 아키텍트
+  
+- 6. AWS 환경에서의 위협 탐지 및 사냥
+  > Speaker: 신은수 AWS 솔루션즈 아키텍트
 
 ## AWSome Day
 - AWS 클라우드 소개
@@ -79,6 +85,14 @@ AWS Summit에 참석해주셔서 감사 드립니다.
 ![tirivia_challenge2](https://user-images.githubusercontent.com/36417514/81770025-05f74180-951a-11ea-8a8b-715e7d9ac9d2.JPG)
 - 근데 뱃지는 언제 주는 거지??
 
+## Badge 획득한 것 - 자기 이름 누르거나 Profile 선택해도 보임
+
++ 나중에 Feedback도 이미 보내고 난 뒤 Agenda Builder와 Resouces 밑에 Badge LeaderBoard라고 획득한 뱃지 확인하는게 있었음
++ 모바일에서는 Badge LeaderBoard 안 보임
+
+![badge_leaderboard3](https://user-images.githubusercontent.com/36417514/81777919-d30a7900-952c-11ea-857c-c00763f65041.JPG)
+
 ### 기타 나중에 해보려고 했던 것
 - well architect 사이트 보기(자격증) : https://aws.amazon.com/ko/architecture/well-architected/
 - 무료계정생성(12개월 넘게 쓴거 한개 있긴 한데 이번 회사 메일로 한개 더 추가) : https://aws.amazon.com/ko/free/?sc_channel=el&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc
+
