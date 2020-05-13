@@ -54,7 +54,16 @@ AWS Summit에 참석해주셔서 감사 드립니다.
 - KOREA 리전 입장
 - Play 버튼 누르기!
 - 겁나 어려움 10문제 중 2개 맞춤...
-- 아마존 서비스가 얼마나 많은 고객들을 대상으로 얼마나 많이 서비스 하고 있냐 뭐 이런 내용인데 제일 큰 숫자만 고르면 될 줄 알았는데 아님..
+- 아마존 서비스가 얼마나 많은 고객들을 대상으로 얼마나 많이 서비스 하고 있냐 대단하지? 뭐 이런 내용인데 제일 큰 숫자만 고르면 될 줄 알았는데 아님..
+- 리프레시하면 또 할 수 있었음. 여러번 시도해봄
+- 결국 다 맞춤.. 10개 중에 10개... 근데 1등은 아니네?? 헐
+![tirivia_challenge2](https://user-images.githubusercontent.com/36417514/81770025-05f74180-951a-11ea-8a8b-715e7d9ac9d2.JPG)
+
+## 무슨 Deepracer라고 레이싱하는 거 있는데
+- Experiential Zone - AWS DeepRacer Zone 선택
+- aws 어카운트 있어야함.. 여기까지만 알아보자
+- 서밋 참가한 사람들끼리 프로그램 다운 받은 다음에 뭐 자기차 만들어서 기계학습 시킨 후 참가시켜서 1등 하는 거 같은데..
+- 이 사람이 1등 하고 있음 - (JJ)[https://aws.amazon.com/ko/deepracer/schedule-and-standings/leaderboard-summit-season-2020-05-TT/]
 
 ## 느낀점
 - 그전부터 참가해보고 싶었던 개발자 컨퍼런스였는데, 한국에 돌아와서 참가한 첫 컨퍼런스가 코로나 때문에 온라인 AWS Summit이었다.
