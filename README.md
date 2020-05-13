@@ -1,10 +1,10 @@
 # AWS_summit_2020_online
-2020 5/13 AM09:30~
+2020 5/13 AM 09:30~
 
-# Login
+## Login
 https://onlinexperiences.com/scripts/Server.nxp?LASCmd=AI:1;F:US!5&RandomValue=1589330845162
 
-# Summit 스케줄
+## Summit 스케줄
 https://mktg-apac.s3-ap-southeast-1.amazonaws.com/AWS+Summit+Online/AWS+Summit+Online+Korea_Agenda+at+a+glance_Final.pdf
 
 ## AWS korea 공지
