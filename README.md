@@ -4,8 +4,8 @@
 ## Login
 https://onlinexperiences.com/scripts/Server.nxp?LASCmd=AI:1;F:US!5&RandomValue=1589330845162
 
-## 참석자 가이드
-https://mktg-apac.s3-ap-southeast-1.amazonaws.com/AWS+Summit+Online/AWS+Virtual+Summit+Attendee+Guide_Korea+Final.pdf
+## 참석자 가이드 (2M가 넘어서 로딩 오래걸리길래 다운받았음)
+[AWS+Virtual+Summit+Attendee+Guide_Korea+Final.pdf](https://github.com/stonesteel1023/AWS_summit_2020_online/files/4619702/AWS%2BVirtual%2BSummit%2BAttendee%2BGuide_Korea%2BFinal.pdf)
 
 ## Summit 스케줄
 https://mktg-apac.s3-ap-southeast-1.amazonaws.com/AWS+Summit+Online/AWS+Summit+Online+Korea_Agenda+at+a+glance_Final.pdf
@@ -49,7 +49,12 @@ AWS Summit에 참석해주셔서 감사 드립니다.
 
   > Speaker: 장기웅 테크니컬 트레이너, AWS
   
-
+## 지금부터는 뱃지를 받으러 Trivia Challenge를 해봐야겠음
+- Resources - Trivia Challenge 선택
+- KOREA 리전 입장
+- Play 버튼 누르기!
+- 겁나 어려움 10문제 중 2개 맞춤...
+- 아마존 서비스가 얼마나 많은 고객들을 대상으로 얼마나 많이 서비스 하고 있냐 뭐 이런 내용인데 제일 큰 숫자만 고르면 될 줄 알았는데 아님..
 
 ## 느낀점
 - 그전부터 참가해보고 싶었던 개발자 컨퍼런스였는데, 한국에 돌아와서 참가한 첫 컨퍼런스가 코로나 때문에 온라인 AWS Summit이었다.
