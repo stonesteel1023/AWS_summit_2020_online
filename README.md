@@ -96,3 +96,7 @@ AWS Summit에 참석해주셔서 감사 드립니다.
 - well architect 사이트 보기(자격증) : https://aws.amazon.com/ko/architecture/well-architected/
 - 무료계정생성(12개월 넘게 쓴거 한개 있긴 한데 이번 회사 메일로 한개 더 추가) : https://aws.amazon.com/ko/free/?sc_channel=el&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc
 
+
+# Certificate of Attendance
+
+![AWS_summit_2020_certificated](https://user-images.githubusercontent.com/36417514/82619657-7a646b80-9c11-11ea-84f4-a6a003a16a9b.JPG)
